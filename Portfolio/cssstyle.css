@@ -1,0 +1,62 @@
+body{
+	background-image: url(b.jpeg);
+	width: 100%;
+	height: ;
+	opacity: 2;
+
+}
+ul{
+	margin: 0px; padding: 0px;
+	
+}
+
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+ul li{
+	float: left;
+	width: 150px;
+	height: 40px;
+	background-color: black;
+	font-size: 20px;
+	line-height: 40px;
+	text-align: center;
+	opacity: .8;
+	border: 2px solid #285189;
+
+}
+ul li a:hover{
+	background-color: orange;
+}
+ul li ul li{
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
+.homep{
+	margin: 25px;
+	padding: 0px;
+	color: white;
+	float: left;
+	font-size: 40px;
+}
+
+#footer span
+{
+	display:         block;
+	position:        left;	
+	font-size:       1.2em;
+	padding:         0px;
+	color:           white;
+	padding-left: 400px;
+	margin: auto;
+}
+h3{
+	text-align: center;
+}
+.active {
+    background-color: #4CAF50;
+}

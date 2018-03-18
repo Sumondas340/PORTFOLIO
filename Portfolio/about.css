@@ -1,0 +1,15 @@
+.about{
+
+	margin: 20px;
+	padding: 0px;
+	color: white;
+	float: left;
+	font-size: 30px;
+}
+h4{
+	text-align: left;
+	 letter-spacing: 1px;
+}
+.active {
+    background-color: #4CAF50;
+}

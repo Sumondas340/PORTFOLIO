@@ -1,0 +1,53 @@
+.school{
+
+	margin: 20px;
+	padding: 0px;
+	color: white;
+	float: left;
+	font-size: 30px;
+}
+.pri{
+	text-align: center;
+	height: 40px;
+	margin: 55px;
+	font color: lime;
+}
+h1{
+	color: #33F309;
+}
+
+h2{
+	color: #0FE7D0;
+}
+h3{
+	color: lime;
+}
+/*!
+img.top {
+    vertical-align: text-top;
+}
+
+img.bottom {
+    vertical-align: text-bottom;
+    }
+    ..*/
+     
+.div1 {
+    width: 1100px;
+    height: 120px; 
+    margin: 50px;   
+    padding: 50px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid red;
+}
+
+.div2 {
+    width: 1100px;
+    height: 200px; 
+    margin: 50px;   
+    padding: 50px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid red;
+}
